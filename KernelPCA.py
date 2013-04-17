@@ -1,7 +1,6 @@
-
 import math as m
 import sys
-import numpy as n
+import numpy as n 
 from numpy import *
 import matplotlib.pyplot as p
 #from tools.load import LoadMatrix
