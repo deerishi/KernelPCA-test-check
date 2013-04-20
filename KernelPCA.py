@@ -1,4 +1,3 @@
-
 import math as m
 import sys
 import numpy as n
@@ -78,7 +77,7 @@ def preprocessor_kernelpca_modular (data, threshold, width):
 	p.title('final data')
 	p.show()	
 				
-	return features
+	return features 
 
 
 
